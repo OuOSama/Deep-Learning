@@ -12,3 +12,6 @@
   <img src="Picture/Numpy.jpg" height="100px">
 </div>
 
+<br>
+<div align="center">You can use all Library just type <span style="color:rgb(124,124,122);">pip install -r Requirements.txt</span></div>
+
