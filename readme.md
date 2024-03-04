@@ -1,5 +1,5 @@
 <h1 align="center">Deep Learning</h1>
-<h3 align="center">Now Im Learning about</h3>
+<h3 align="center">Now Im Learning aboute</h3>
 
 <div align="center">
   <img src="Picture/Tensorflow.png" height="100px">
